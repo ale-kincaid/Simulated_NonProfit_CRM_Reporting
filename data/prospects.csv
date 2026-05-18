@@ -1,0 +1,7 @@
+prospect_id,donor_id,assigned_fundraiser,giving_capacity,research_status,last_research_date,notes
+P001,D001,Sarah Miller,1000.0,Complete,2025-04-12,Interested in pediatric research
+P002,D002,James Carter,10000.0,In Progress,2025-04-20,Foundation giving history identified
+P003,D003,Sarah Miller,,Missing Info,,Needs employer and capacity research
+P004,D004,,,Missing Info,,Missing email and assigned fundraiser
+P005,D005,Jim Carrey,5000.0,Complete,2025-07-03,Interested in laughter as medicine
+P006,D006,,1000.0,In Progress,2025-01-21,Needs assigned fundraiser

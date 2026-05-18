@@ -1,0 +1,7 @@
+donor_id,first_name,last_name,email,city,state,donor_type,created_date
+D001,Maria,Johnson,maria.johnson@email.com,Indianapolis,IN,Individual,2024-01-12
+D002,Smith Family Foundation,,contact@smithfoundation.org,Carmel,IN,Foundation,2024-02-20
+D003,David,Lee,david.lee@email.com,Bloomington,IN,Individual,2024-03-05
+D004,Angela,Rivera,,Fishers,IN,Individual,2024-05-17
+D005,Hasan,Piker,hpiker@gmail.com,Los Angeles,California,Individual,2025-06-20
+D006,The Yard,,yard@gmail.com,Los Angeles,California,Foundation,2025-01-01

@@ -1,0 +1,4 @@
+prospect_id,donor_id,first_name,last_name,email,assigned_fundraiser,giving_capacity,research_status,last_research_date,data_quality_issue
+P003,D003,David,Lee,david.lee@email.com,Sarah Miller,,Missing Info,,Missing giving capacity
+P004,D004,Angela,Rivera,,,,Missing Info,,Missing donor email
+P006,D006,The Yard,,yard@gmail.com,,1000.0,In Progress,2025-01-21,Missing assigned fundraiser

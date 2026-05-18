@@ -1,0 +1,5 @@
+interaction_id,donor_id,fundraiser,interaction_date,interaction_type,summary
+I001,D001,Sarah Miller,2025-04-15,Call,Discussed interest in children's healthcare
+I002,D002,James Carter,2025-04-25,Email,Sent foundation sponsorship information
+I003,D003,Sarah Miller,2025-05-01,Meeting,Follow-up needed
+I005,D005,Jim Carrey,2025-05-01,Call,Discussed research interest

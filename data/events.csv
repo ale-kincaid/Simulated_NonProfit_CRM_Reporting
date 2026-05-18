@@ -1,0 +1,7 @@
+event_id,event_name,donor_id,event_date,attended
+E001,Annual Gala,D001,2025-05-10,Yes
+E001,Annual Gala,D002,2025-05-10,Yes
+E002,Donor Breakfast,D003,2025-06-12,No
+E002,Donor Breakfast,D004,2025-06-12,Yes
+E003,Donor Dinner,D005,2026-03-12,Yes
+E002,Donor Dinner,D006,2026-03-12,No
